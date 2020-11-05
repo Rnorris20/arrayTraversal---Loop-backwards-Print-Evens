@@ -6,6 +6,7 @@ class Main {
     for(int i=9; i>=0; i--){
       if(numbers[i] % 2==0){
 
+
         System.out.println(numbers[i]);
       }
     }
